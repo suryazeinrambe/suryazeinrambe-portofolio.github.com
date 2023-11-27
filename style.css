@@ -1,0 +1,54 @@
+* {
+  font-family: Rubik;
+  margin: auto;
+}
+
+body {
+  background-color: black;
+  min-height: 2000px;
+}
+
+span .dua {
+  color: red;
+  text-transform: capitalize;
+}
+
+h1 {
+  font-weight: bold;
+  text-shadow: 2px 3px 1px #1c1818;
+}
+
+h1,
+p {
+  font-size: 2rem;
+  font-family: Rubik;
+  color: #ffffff;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+}
+
+.jumbotron img {
+  width: 200px;
+  height: 200px;
+}
+.jumbotron .lead {
+  font-size: 20px;
+}
+
+#image {
+  background-color: #273036;
+}
+
+.card-body > .card-text {
+  color: #273036;
+}
+
+footer {
+  background-color: #273036;
+}
+
+.wa {
+  text-decoration: none;
+}
